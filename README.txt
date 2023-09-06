@@ -1,3 +1,5 @@
 SSL PRO MULTI PUERTOS PARA SCRIPT SSH-PLUS
 
-INSTALADOR:
+INSTALADOR: 
+
+wget https://raw.githubusercontent.com/thefather12/SSL-PRO/main/ssl.sh; chmod +x ssll.sh; ./ssll.sh
